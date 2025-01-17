@@ -1,5 +1,5 @@
 # OnlineQuizPlatform
-#About
+# About
 Online Quiz Platform
 A Simple Banking Application in Java It covers fundamental concepts
 like the Scanner class for input, strings, loops, methods,
